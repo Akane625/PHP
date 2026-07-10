@@ -1,4 +1,4 @@
-<title>e1b55253 Thom Daniel Yutuc</title>
+<title>e1b55253 Thom</title>
 <h1>Welcome to my guessing game</h1>
 <p>
     <?php
